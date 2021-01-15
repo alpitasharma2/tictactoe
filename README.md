@@ -1,1 +1,1 @@
-# tictactoe
+Tictactoe game.
